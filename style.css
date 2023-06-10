@@ -1,0 +1,38 @@
+section{
+    height: 100vh;
+    padding: 3%;
+    background-color: beige;
+}
+
+.sectionHead{
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+.sectionHead p{
+    font-weight: bold;
+    color: rgb(255, 208, 0);
+}
+
+.card{
+    width: 30%;
+    text-align: center;
+}
+
+.cards{height: min-content;
+    margin-top: 50px;
+    display: flex;
+    justify-content: space-around;
+}
+
+span{
+    padding: 5px 15px;
+    font-weight: bold;
+    color: white;
+    background-color: rgb(255, 208, 0);
+}
+
+a{
+    color: black;
+}
